@@ -5,8 +5,10 @@ const localePath = useLocalePath();
 <template>
   <div class="home-image">
     <div class="row justify-content-center align-self-center">
-      <h2 class="intro">{{ $t('intro') }}</h2>
-      <NuxtLink :to="localePath('glassUnits')">{{ $t('more') }}</NuxtLink>
+      <h2 class="intro">
+        {{ $t('intro') }}
+        <NuxtLink :to="localePath('glassUnits')">{{ $t('more') }}</NuxtLink>
+      </h2>
     </div>
   </div>
 </template>
