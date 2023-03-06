@@ -102,7 +102,8 @@ const switchLocalePath = useSwitchLocalePath();
   padding-left: 1em;
 }
 .link-one {
-  color: #53d9d1;
+  color: #42b983;
+  /* color: #53d9d1; */
   transition: color 1s cubic-bezier(0.32, 0, 0.67, 0);
   line-height: 1em;
 }

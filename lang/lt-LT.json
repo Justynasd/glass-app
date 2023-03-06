@@ -1,4 +1,10 @@
 {
+  "gridName": "tiklo paketo struktūra, Pavadinimas",
+  "gridThickness": "Paketo storis, mm",
+  "gridHeatTransfer": "Šilumos perdavimo koeficientas, Ug, W/m2K",
+  "gridLightTransmission": "Šviesos laidumas, LT, %",
+  "gridLightReflection": "Išorinis šviesos atspindėjimas, LR, %",
+  "gridSolarFactor": "Saulės faktorius, g, %",
   "homeButton": "Pradinis puslapis",
   "home": "PRADŽIA",
   "intro": "Intro ..... kažkas tau",

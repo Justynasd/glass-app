@@ -2,7 +2,7 @@
 
 <template>
   <header>
-    <Navbar />
+    <TheNavbar />
   </header>
 </template>
 
